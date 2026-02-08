@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  name: "Olarila Sequoia 15.7.3"
+  comment: "Olarila Sequoia 15.7.3 by Olarila Forum"
+  url: "https://download2278.mediafire.com/gs0o3y142cvgQZI2cZzssTR3-4CcZ8BMDCYm5Vxap19qO4d8HByO7pbHcW7Q-2BozRy9lC_PfTO9PO0TXOvitaHtYFgicyy68izBejAlpJV3hYf3e1h-cLD8AkWkxrAp9xyMt5zJqosoNITBNY8qYAk1-DUbYQgbNQmgl504ng/cjhwqch24mwam3i/Olarila+Sequoia+15.7.3.raw"
+  file_name: "Olarila+Sequoia+15.7.3.raw"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
